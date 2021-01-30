@@ -1,0 +1,14 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+h1{
+    color: rgb(228, 164, 28);
+    font-size: 150px;
+   text-shadow: 15px 10px 0px rgb(156, 156, 156);
+}
+.shadow{
+    padding: 200px;
+}
